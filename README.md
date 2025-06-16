@@ -21,3 +21,8 @@ You will need Python 3 and Selenium
 Selenium is used to automatically grab the latest version for Fabric, Yarn, and Loom based on your requested Minecraft version from the [Fabric Development Page](https://fabricmc.net/develop/). This is the slowest part of the script, but the entire process still only takes a few seconds after you are done inputting information.
 
 Set your author name and modding package in `ModMakerUtils.py`, then run `ModMaker.py` and enter the name of the new mod, the Minecraft version, and its environment.
+
+# Misc
+Everyone is welcome to create their own alterations based on their needs (maybe you don't like my naming scheme, or want a different LICENSE).
+
+If you need any help with setup, usage, alterations, or fabric modding in general, then join my [Discord](https://discord.gg/ZCaGkZeb4C).
